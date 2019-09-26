@@ -1,0 +1,25 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "Juan Perez",
+            "email": "juanperez@gmail.com",
+            "isWoman": false,
+            "age": 35
+        },
+        {
+            "id": 2,
+            "name": "Silvina Lopez",
+            "email": "silvinalopez@gmail.com",
+            "isWoman": true,
+            "age": 28
+        },
+        {
+            "id": 3,
+            "name": "Joaquin Gomez",
+            "email": "joaquingomez@gmail.com",
+            "isWoman": false,
+            "age": 45
+        }
+    ]
+}

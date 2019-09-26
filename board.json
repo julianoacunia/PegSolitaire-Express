@@ -1,0 +1,10 @@
+  {
+    "board": [
+                [null,null,{"value":1},{"value":1},{"value":1},null,null],
+                [null,null,{"value":1},{"value":1},{"value":1},null,null],
+                [{"value":1},{"value":1},{"value":1},{"value":1},{"value":1},{"value":1},{"value":1}],
+                [{"value":1},{"value":1},{"value":1},{"value":0},{"value":1},{"value":1},{"value":1}],
+                [{"value":1},{"value":1},{"value":1},{"value":1},{"value":1},{"value":1},{"value":1}],
+                [null,null,{"value":1},{"value":1},{"value":1},null,null],
+                [null,null,{"value":1},{"value":1},{"value":1},null,null]]
+  }
